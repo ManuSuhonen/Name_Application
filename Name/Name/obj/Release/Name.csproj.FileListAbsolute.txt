@@ -1,0 +1,12 @@
+C:\Development\Name\Name\Name\bin\Release\Name.exe.config
+C:\Development\Name\Name\Name\bin\Release\Name.exe
+C:\Development\Name\Name\Name\bin\Release\Name.pdb
+C:\Development\Name\Name\Name\bin\Release\Newtonsoft.Json.dll
+C:\Development\Name\Name\Name\bin\Release\Newtonsoft.Json.xml
+C:\Development\Name\Name\Name\obj\Release\Name.Form1.resources
+C:\Development\Name\Name\Name\obj\Release\Name.Properties.Resources.resources
+C:\Development\Name\Name\Name\obj\Release\Name.csproj.GenerateResource.cache
+C:\Development\Name\Name\Name\obj\Release\Name.csproj.CoreCompileInputs.cache
+C:\Development\Name\Name\Name\obj\Release\Name.csproj.CopyComplete
+C:\Development\Name\Name\Name\obj\Release\Name.exe
+C:\Development\Name\Name\Name\obj\Release\Name.pdb
