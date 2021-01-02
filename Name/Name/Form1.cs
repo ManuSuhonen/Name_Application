@@ -92,8 +92,6 @@ namespace Name
                 DataTable dataTable = dataSet.Tables["names"];
 
 
-
-
                 foreach (DataRow row in dataTable.Rows)
                 {
                     Console.WriteLine(row["name"] + " - " + row["amount"]);
@@ -110,7 +108,6 @@ namespace Name
                 dataGridView1.Width = 220;
 
 
-                this.textBox1.ForeColor = Color.Black;
                 this.textBox1.ReadOnly = true;
 
                 this.textBox1.Text = "Total amount = " + totalcount.ToString();
